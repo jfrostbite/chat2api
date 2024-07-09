@@ -1,5 +1,5 @@
 fastapi
-curl_cffi
+httpx
 uvicorn
 tiktoken
 python-dotenv
